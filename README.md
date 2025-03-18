@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SinghSuraj-04092002
-- 👀 I’m interested in Programming
-- 🌱 I’m currently doing Engineering in IT
+- 🌱 I’m currently working as Data Scientist (GenAI)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me surajsingh04092002@gmail.com
 
